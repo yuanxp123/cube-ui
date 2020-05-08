@@ -10,7 +10,7 @@ import { camelize } from '../../../src/common/lang/string'
 
 export default {
   props: {
-    // v-model 值
+    // v-model  1值
     value: null,
     // 图标
     icon: String,
